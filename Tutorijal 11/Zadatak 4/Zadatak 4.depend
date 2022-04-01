@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1648803443 source:c:\users\amar\desktop\tehnike programiranja\tutorijal 11\zadatak 4\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+	<initializer_list>
+	<stdexcept>
+	<algorithm>
+
