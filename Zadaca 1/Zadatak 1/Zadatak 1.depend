@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648760486 source:c:\users\amar\desktop\tehnike programiranja\zadaca 1\zadatak 1\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
